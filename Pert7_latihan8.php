@@ -5,7 +5,7 @@
 <BODY>
 <?php
 
-// Nama : Muhammad Derio
+// Nama : Nofian Afrizal
 // Kelas : 06TPLE012
 
 $var = array('18', '11', '2010');
